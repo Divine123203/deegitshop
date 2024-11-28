@@ -4,3 +4,4 @@ progress
 functions
 howtouse
 howtocontribute
+changes
